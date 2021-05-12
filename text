@@ -1,0 +1,35 @@
+   
+   {
+    "product_name": "Basketball",
+      "price": 200.00,
+      "stock": 3,
+      "tagIds": [1, 2, 3, 4]
+    }
+    Category
+      {
+ 
+    "category_name": "Formal Shirts",
+  
+  },
+
+  tag
+
+ {
+    "tag_name": 'pop music',
+  },
+
+  update
+   {
+	 
+  "id": 5,
+  "tag_name": "silver"
+ }
+
+http://localhost:3001/api/
+
+
+  {
+    "id": 10,
+    "tag_name": null,
+    "products": []
+  }

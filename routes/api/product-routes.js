@@ -23,7 +23,7 @@ Product.findAll({
 router.get('/:id', (req, res) => {
   Product.findOne({
     where: {
-     id: reeq.params.id 
+     id: req.params.id 
     },
     include: [
       Category, { 
