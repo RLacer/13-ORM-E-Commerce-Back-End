@@ -6,11 +6,15 @@
       "tagIds": [1, 2, 3, 4]
     }
     Category
-      {
- 
-    "category_name": "Formal Shirts",
-  
-  },
+  {
+  "id": 5,
+  "category_name": "Shoes",
+  "products": []
+}
+POST CATEGORY
+{
+"category_name": "Formal Shoes"
+}
 
   tag
 
